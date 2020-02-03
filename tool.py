@@ -184,7 +184,7 @@ def git_operation():
     ----------
     需要安装git命令行工具，并且添加到环境变量中
     '''
-   # os.system('git init')
+    os.system('git init')
     os.system('git add --all')
     os.system('git commit -m "add photos"')
     os.system('git remote add origin https://github.com/better46/Blog-Back-Up.git')
