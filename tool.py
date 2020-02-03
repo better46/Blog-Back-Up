@@ -186,8 +186,9 @@ def git_operation():
     '''
    # os.system('git init')
     os.system('git add --all')
-    #os.system('git add min_photos')
     os.system('git commit -m "add photos"')
+    os.system('git remote add origin https://github.com/better46/Blog-Back-Up.git')
+    os.system('git push -u origin master')
     os.system('git push -u origin master')
 
 if __name__ == "__main__":
