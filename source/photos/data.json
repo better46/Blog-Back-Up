@@ -1,1 +1,1 @@
-{"list": [{"date": "2020-2", "arr": {"text": ["hao"], "type": ["image"], "month": 2, "year": 2020, "link": ["2020-2-3_hao.jpg"]}}, {"date": "2020-2", "arr": {"text": ["keyi"], "type": ["image"], "month": 2, "year": 2020, "link": ["2020-2-4_keyi.jpg"]}}]}
+{"list": [{"arr": {"year": 2020, "type": ["image"], "text": ["hao"], "link": ["2020-2-3_hao.jpg"], "month": 2}, "date": "2020-2"}]}
