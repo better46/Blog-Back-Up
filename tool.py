@@ -134,7 +134,7 @@ def handle_photo():
 
     list_info = SortDict(list_info)
     final_dict = {"list": list_info}
-    with open("E:/2019张/blog/source/blog_photos_copy/data.json", "w") as fp:
+    with open("E:/2019张/blog/source/photos/data.json", "w") as fp:
         json.dump(final_dict, fp)
 
 
