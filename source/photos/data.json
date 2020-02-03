@@ -1,1 +1,1 @@
-{"list": [{"date": "2020-02", "arr": {"text": ["github", "\u6d77\u8d3c\u738b", "\u706b\u5f71\u5fcd\u8005"], "month": 2, "link": ["2020-02-01_github.jpg", "2020-02-01_\u6d77\u8d3c\u738b.jpg", "2020-02-01_\u706b\u5f71\u5fcd\u8005.jpg"], "type": ["image", "image", "image"], "year": 2020}}]}
+{"list": [{"arr": {"link": ["2020-02-01_github.jpg", "2020-02-01_\u6d77\u8d3c\u738b.jpg", "2020-02-01_\u706b\u5f71\u5fcd\u8005.jpg"], "text": ["github", "\u6d77\u8d3c\u738b", "\u706b\u5f71\u5fcd\u8005"], "type": ["image", "image", "image"], "year": 2020, "month": 2}, "date": "2020-02"}]}

@@ -1,4 +1,5 @@
+title: 相册
+noDate: 'true'
 ---
-title: photos
-date: 2020-02-02 20:43:08
----
+<link type="text/css" href="/fancybox/jquery.fancybox.css" rel="stylesheet">
+<div class="instagram"><section class="archives album"><ul class="img-box-ul"></ul></section></div>
