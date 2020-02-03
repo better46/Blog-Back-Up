@@ -189,7 +189,7 @@ def git_operation():
     os.system('git commit -m "add photos"')
    # os.system('git remote add origin https://github.com/better46/Blog-Back-Up.git')
     #os.system('git pull --rebase origin master')
-    os.system('git push -u origin master')
+    os.system('git push origin master')
 
 if __name__ == "__main__":
     cut_photo()        # 裁剪图片，裁剪成正方形，去中间部分
